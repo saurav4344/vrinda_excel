@@ -1,6 +1,6 @@
 # My first excel project with interactive dashboard - Vrinda Sales 2022 Case Study
 
-### This project is aimed at gaining valuable insights from customer behaviour and enhancing sales performance for upcoming years. To achieve this, it focuses on generating interactive dashboards and extracting meaningful insights from the data to perform strategic decision making.
+This project is aimed at gaining valuable insights from customer behaviour and enhancing sales performance for upcoming years. To achieve this, it focuses on generating interactive dashboards and extracting meaningful insights from the data to perform strategic decision making.
 
 ### Below are the list of questiong strategically employed througout the project to extract meaningful insights:
 1. Compare Sales and Order data
